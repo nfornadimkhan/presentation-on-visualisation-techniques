@@ -1,0 +1,42 @@
+# Ignore everything
+*
+*/*
+
+# But don't ignore these specific files/directories
+!khan_coursework1_presentation.ipynb
+!data/
+!khan_coursework1_presentation.pdf/
+!visualization_created/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
