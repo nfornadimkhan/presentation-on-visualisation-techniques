@@ -43,7 +43,7 @@ Data analysis and visualizations were performed using Python libraries:
    ```
 
 ## License
-This project is created for academic purposes at [Your University Name].
+This project is created for academic purposes at University of Hohenheim for Methods of Scientific Working Coursework 2.
 
 ## Author
 Nadim Khan 
